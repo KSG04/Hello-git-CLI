@@ -1,0 +1,2 @@
+second workdgit clone https://github.com/KSG04/Hello-git-CLI.git .
+gogogogo
